@@ -1,2 +1,3 @@
 # kickstarter-analysis
-UCB Data Analytics Bootcamp Module 1 Challange 
+### Challenge
+UCB Data Analytics Bootcamp Module 1 Challenge 
